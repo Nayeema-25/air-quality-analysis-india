@@ -1,0 +1,37 @@
+Project: Air Quality Analysis in India
+
+Objective
+
+This project analyzes air pollution levels in India using Python and the Pandas library. It focuses on pollutants like PM2.5, PM10, and NO₂ to understand air quality trends over time.
+
+Workflow
+
+Data Collection – A dataset containing air pollution data is used for analysis.
+
+Data Cleaning – Missing values are removed, and the date format is corrected.
+
+Data Analysis – Pollution levels are examined to find trends and patterns.
+
+Data Visualization – Graphs are created to present the air quality data clearly.
+
+
+Data Cleaning
+
+Before analyzing the data, it is cleaned to remove any missing values and ensure the date column is in the correct format. This step is essential for accurate results.
+
+Visualization
+
+Line Chart: Used to show changes in pollution levels over multiple days. This helps in identifying trends, such as rising or falling air pollution levels.
+
+Bar Chart: Compares pollution levels on different days, making it easy to see which pollutant had the highest concentration on each date.
+
+
+Conclusion
+
+The project helps in understanding air quality trends in India.
+
+The visualizations provide insights into how pollution levels vary over time.
+
+The dataset can be expanded to include more cities and longer time periods for better analysis.
+
+
